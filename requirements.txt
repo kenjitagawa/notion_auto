@@ -11,10 +11,10 @@ cryptography==3.3.2
 Deprecated==1.2.10
 dictdiffer==0.8.1
 Flask==1.1.2
-httplib2==0.18.1
+httplib2==0.19.0
 idna==2.10
 itsdangerous==1.1.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 lxml==4.9.1
 MarkupSafe==1.1.1
 notion==0.0.27
@@ -29,7 +29,7 @@ python-dotenv==0.15.0
 python-slugify==4.0.1
 pytz==2020.5
 requests==2.25.1
-rsa==4.6
+rsa==4.7
 schedule==0.6.0
 six==1.15.0
 soupsieve==2.1
