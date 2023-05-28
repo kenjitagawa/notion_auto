@@ -28,7 +28,7 @@ pyTelegramBotAPI==3.7.4
 python-dotenv==0.15.0
 python-slugify==4.0.1
 pytz==2020.5
-requests==2.25.1
+requests==2.31.0
 rsa==4.7
 schedule==0.6.0
 six==1.15.0
