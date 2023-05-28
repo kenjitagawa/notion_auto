@@ -8,7 +8,7 @@ chardet==4.0.0
 click==7.1.2
 commonmark==0.9.1
 cryptography==39.0.2
-Deprecated==1.2.10
+Deprecated==1.2.13
 dictdiffer==0.8.1
 Flask==1.1.2
 httplib2==0.19.0
