@@ -1,4 +1,4 @@
-beautifulsoup4==4.9.3
+beautifulsoup4==4.12.2
 bs4==0.0.1
 cached-property==1.5.2
 cachetools==4.2.4
