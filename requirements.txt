@@ -21,7 +21,7 @@ notion==0.0.28
 protobuf==3.20.3
 pyasn1==0.5.0
 pyasn1-modules==0.3.0
-pycparser==2.20
+pycparser==2.21
 PyGithub==1.54.1
 PyJWT==2.4.0
 pyTelegramBotAPI==3.7.4
