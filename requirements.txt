@@ -3,7 +3,7 @@ bs4==0.0.1
 cached-property==1.5.2
 cachetools==4.2.4
 certifi==2022.12.7
-cffi==1.14.4
+cffi==1.15.1
 chardet==4.0.0
 click==7.1.2
 commonmark==0.9.1
