@@ -18,7 +18,7 @@ Jinja2==2.11.3
 lxml==4.9.2
 MarkupSafe==1.1.1
 notion==0.0.28
-protobuf==3.18.3
+protobuf==3.20.3
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycparser==2.20
