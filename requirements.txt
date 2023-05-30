@@ -29,7 +29,7 @@ python-dotenv==0.21.1
 python-slugify==4.0.1
 pytz==2020.5
 requests==2.31.0
-rsa==4.7
+rsa==4.9
 schedule==0.6.0
 six==1.15.0
 soupsieve==2.1
