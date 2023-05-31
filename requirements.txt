@@ -13,7 +13,7 @@ dictdiffer==0.9.0
 Flask==2.3.2
 httplib2==0.22.0
 idna==3.4
-itsdangerous==1.1.0
+itsdangerous==2.1.2
 Jinja2==2.11.3
 lxml==4.9.2
 MarkupSafe==1.1.1
