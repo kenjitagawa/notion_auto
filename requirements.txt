@@ -27,7 +27,7 @@ PyJWT==2.8.0
 pyTelegramBotAPI==4.13.0
 python-dotenv==1.0.0
 python-slugify==8.0.1
-pytz==2023.3
+pytz==2023.3.post1
 requests==2.31.0
 rsa==4.9
 schedule==1.2.0
