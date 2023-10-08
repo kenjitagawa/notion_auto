@@ -30,7 +30,7 @@ python-slugify==8.0.1
 pytz==2023.3.post1
 requests==2.31.0
 rsa==4.9
-schedule==1.2.0
+schedule==1.2.1
 six==1.16.0
 soupsieve==2.5
 text-unidecode==1.3
